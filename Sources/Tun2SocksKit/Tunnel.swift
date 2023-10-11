@@ -36,7 +36,7 @@ public enum Socks5Tunnel {
         return nil
     }
     
-    private static var interfaceName: String? {
+    public static var interfaceName: String? {
         guard let tunnelFileDescriptor = self.tunnelFileDescriptor else {
             return nil
         }
