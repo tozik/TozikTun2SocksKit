@@ -130,9 +130,9 @@ jobs:
                      -headers ./include \
                      -library ./iphonesimulator_arm64_x86_64/libhev-socks5-tunnel.a \
                      -headers ./include \
-                     -library ./macos_arm64_x86_64/libhev-socks5-tunnel.a \
+                     -library ./macos_arm64_x86_64/macos_arm64/libhev-socks5-tunnel.a \
                      -headers ./include \
-                     -library ./maccatalyst_arm64_x86_64/libhev-socks5-tunnel.a \
+                     -library ./maccatalyst_arm64_x86_64/maccatalyst_arm64/libhev-socks5-tunnel.a \
                      -headers ./include \
                      -output ./HevSocks5Tunnel.xcframework
           zip -r HevSocks5Tunnel.xcframework.zip HevSocks5Tunnel.xcframework
