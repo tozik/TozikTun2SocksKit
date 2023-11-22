@@ -5,8 +5,6 @@
 [0]: https://img.shields.io/github/downloads/arror/Tun2SocksKit/total.svg
 [1]: https://github.com/tozik/Tun2SocksKit/releases/latest
 
-⚠️⚠️⚠️不保证每个版本都可用，请自行[Fork](https://github.com/daemooon/Tun2SocksKit/fork)发布⚠️⚠️⚠️
-
 ### 重要变更
 
 > `2.4.0` 支持maccatalyst（arm64、x86_64）by [@hossinasaadi](https://github.com/hossinasaadi)
