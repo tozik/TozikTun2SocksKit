@@ -2,7 +2,7 @@
 
 [![Downloads][0]][1]
 
-[0]: https://img.shields.io/github/downloads/arror/Tun2SocksKit/total.svg
+[0]: https://img.shields.io/github/downloads/tozik/Tun2SocksKit/total.svg
 [1]: https://github.com/tozik/Tun2SocksKit/releases/latest
 
 ### Important changes
