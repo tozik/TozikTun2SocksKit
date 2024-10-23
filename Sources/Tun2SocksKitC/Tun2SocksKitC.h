@@ -1,7 +1,7 @@
-#import <Foundation/Foundation.h> 
 #ifndef Tun2SocksKitC_H
 #define Tun2SocksKitC_H
 #include <stdint.h>
+#include <sys/_types/_u_char.h>
 
 #define CTLIOCGINFO 0xc0644e03UL
 
